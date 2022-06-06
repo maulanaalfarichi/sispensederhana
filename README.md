@@ -1,1 +1,1 @@
-# sispensederhana
+# sispensederhana -  Sistem Penjualan Sederhana
